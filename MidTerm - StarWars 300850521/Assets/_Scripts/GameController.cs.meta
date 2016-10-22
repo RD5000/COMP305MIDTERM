@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 22b5bcb4d64f040428d6ecbba3892d41
+timeCreated: 1477161001
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - enemy: {fileID: 190558, guid: 37c66312947d74f43bff662354556e11, type: 2}
+  - ScoreLabel: {instanceID: 0}
+  - LivesLabel: {instanceID: 0}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
